@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[41,)"
+license="All Rights Reserved"
+issueTrackerURL=""
+[[mods]]
+modId="example"
+version="1.0"
+displayName="Example How to make a Passive"
+authors="Dplayend"
+description=''''''
+displayURL=""
+logoFile="icon.png"
+
+[[dependencies.example]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20,)"
+ordering="NONE"
+side="BOTH"
